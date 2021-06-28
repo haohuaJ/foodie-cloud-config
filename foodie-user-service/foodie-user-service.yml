@@ -1,3 +1,4 @@
+#功能端点
 management:
   endpoint:
     health:
